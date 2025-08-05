@@ -2,7 +2,7 @@
 Introduction
 Have you ever wanted to create engaging stories and have them read aloud naturally? By combining the power of AI story generation with text-to-speech technology, we can create an interactive storytelling experience. In this project, we'll use Mistral, a large language model, to generate creative stories based on any topic you provide, and then convert these stories into natural-sounding speech.
 
-What does this guided project do?
+What does this project do?
 This project demonstrates how to create an AI storyteller by:
 
 Using Mistral to generate creative and informative stories based on your chosen topic
